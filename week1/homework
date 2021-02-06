@@ -1,0 +1,13 @@
+Напишите код, в котором будут 4 операции - деление, умножение, сумирование, вычитание со следующими пременными:
+
+number_1 = 12
+number_2 = 13
+number_3 = 0
+
+number_1 / number_2
+number_2 / number_1
+number_3 / number_2
+number_1 / number_1
+
+number_3 + number_4
+number_2 + number_1
