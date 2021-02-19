@@ -1,0 +1,42 @@
+Task 1
+
+Built a triangle according to its given side (one of angles = 90)
+side = int(input())
+
+For example:
+
+side = 9
+
+Output:
+
+ 1 
+ 2  2 
+ 3  3  3 
+ 4  4  4  4 
+ 5  5  5  5  5 
+ 6  6  6  6  6  6 
+ 7  7  7  7  7  7  7 
+ 8  8  8  8  8  8  8  8 
+ 9  9  9  9  9  9  9  9  9
+
+Task 2
+
+length = int(input())
+width = int(input())
+
+For example length = 5, width = 2
+
+Output:
+
+*****
+*****
+
+length = 3
+width = 4
+
+Output:
+
+***
+***
+***
+***
